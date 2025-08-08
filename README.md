@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tuhin Reza 👋
 
-<!--
-**tuhinmegh/tuhinmegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate software developer specializing in React, Web3, and UI/UX design.
 
-Here are some ideas to get you started:
+## Skills
+- React.js | Material UI | Web3.js
+- JavaScript (ES6+)
+- Git & GitHub | Agile & Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [V1 Project](https://github.com/tuhinmegh/v1-project): Decentralized React app with wallet connect.
+- More projects coming soon...
+
+## Contact Me
+- 📧 tuhinreza707@gmail.com
+  
+
+
+Thanks for visiting my profile!
