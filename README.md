@@ -9,6 +9,8 @@ A passionate software developer specializing in React, Web3, and UI/UX design.
 
 ## Projects
 - [V1 Project](https://github.com/tuhinmegh/v1-project): Decentralized React app with wallet connect.
+- [TO DO APP](https://github.com/tuhinmegh/todo-app)
+
 - More projects coming soon...
 
 ## Contact Me
